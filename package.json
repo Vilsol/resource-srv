@@ -16,7 +16,7 @@
     "resource"
   ],
   "dependencies": {
-    "@restorecommerce/chassis-srv": "github:restorecommerce/chassis-srv",
+    "@restorecommerce/chassis-srv": "github:Vilsol/chassis-srv",
     "@restorecommerce/cluster-service": "^0.1.0",
     "@restorecommerce/kafka-client": "^0.1.0",
     "@restorecommerce/protos": "github:restorecommerce/protos",
